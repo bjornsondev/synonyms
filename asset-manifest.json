@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.js": "/synonyms/static/js/main.f9df0104.chunk.js",
+    "main.js.map": "/synonyms/static/js/main.f9df0104.chunk.js.map",
+    "runtime-main.js": "/synonyms/static/js/runtime-main.468e0443.js",
+    "runtime-main.js.map": "/synonyms/static/js/runtime-main.468e0443.js.map",
+    "static/js/2.9bd83124.chunk.js": "/synonyms/static/js/2.9bd83124.chunk.js",
+    "static/js/2.9bd83124.chunk.js.map": "/synonyms/static/js/2.9bd83124.chunk.js.map",
+    "index.html": "/synonyms/index.html",
+    "static/js/2.9bd83124.chunk.js.LICENSE.txt": "/synonyms/static/js/2.9bd83124.chunk.js.LICENSE.txt",
+    "static/media/Circe-Bold.8a1c4d2d.woff": "/synonyms/static/media/Circe-Bold.8a1c4d2d.woff",
+    "static/media/Circe-ExtraBold.02f7b8cb.woff": "/synonyms/static/media/Circe-ExtraBold.02f7b8cb.woff",
+    "static/media/Circe-ExtraLight.27c9b3b4.woff": "/synonyms/static/media/Circe-ExtraLight.27c9b3b4.woff",
+    "static/media/Circe-Light.0a23696b.woff": "/synonyms/static/media/Circe-Light.0a23696b.woff",
+    "static/media/Circe-Regular.b3583e41.woff": "/synonyms/static/media/Circe-Regular.b3583e41.woff",
+    "static/media/Circe-Thin.1f69b3e5.woff": "/synonyms/static/media/Circe-Thin.1f69b3e5.woff",
+    "static/media/close.c4c834b2.svg": "/synonyms/static/media/close.c4c834b2.svg",
+    "static/media/delete.91ff8e7c.svg": "/synonyms/static/media/delete.91ff8e7c.svg",
+    "static/media/info.8d9f5cb9.svg": "/synonyms/static/media/info.8d9f5cb9.svg",
+    "static/media/loader.70bb8f12.svg": "/synonyms/static/media/loader.70bb8f12.svg",
+    "static/media/pencil.6a21a915.svg": "/synonyms/static/media/pencil.6a21a915.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.468e0443.js",
+    "static/js/2.9bd83124.chunk.js",
+    "static/js/main.f9df0104.chunk.js"
+  ]
+}
